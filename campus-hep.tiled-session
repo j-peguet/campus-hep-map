@@ -1,0 +1,178 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "campus-hep/floor-1.json",
+    "expandedProjectPaths": [
+        ".",
+        "campus-hep/tilesets",
+        "campus-hep"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ALL.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/floor-1.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 4579,
+                "y": 790
+            }
+        },
+        "campus-hep/floor-1.json#ALL": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/floor-1.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ground-floor.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1231.3333333333333,
+                "y": 790.6666666666665
+            }
+        },
+        "campus-hep/ground-floor.json#ALL": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/ground-floor.json#Interiors_free_32x32": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ground-floor.json#Modern_Office_Black_Shadow_32x32": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "campus-hep/ground-floor.json#Modern_Office_MV_2_TILESETS_B-C-D-E": {
+            "scaleInDock": 1.5
+        },
+        "campus-hep/ground-floor.json#Modern_Office_MV_Floors_TILESET_A2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/ground-floor.json#tileset1": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "campus-hep/ground-floor.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ground-floor.json#tileset4_export": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ground-floor.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "campus-hep/ground-floor.json#tileset6_export": {
+            "scaleInDock": 1
+        },
+        "campus-hep/tileset1-repositioning.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tileset1.json": {
+            "scaleInDock": 1
+        },
+        "campus-hep/tileset1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tileset4_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tileset5_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tileset6_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tilesets/tileset1-repositioning.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tilesets/tileset1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tilesets/tileset4_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tilesets/tileset5_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/tilesets/tileset6_export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json": {
+            "scale": 4,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 521.875,
+                "y": 391.25
+            }
+        },
+        "map.json#ALL": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset4_export": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset5_export": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#tileset6_export": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/jules/Code/campus-hep-map/src/assets",
+    "last.imagePath": "C:/Users/jules/Code/campus-hep-map/src/assets",
+    "map.height": 50,
+    "map.lastUsedFormat": "json",
+    "map.width": 180,
+    "openFiles": [
+        "campus-hep/ground-floor.json",
+        "campus-hep/floor-1.json"
+    ],
+    "project": "campus-hep.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "campus-hep/ground-floor.json",
+        "campus-hep/floor-1.json",
+        "map.json",
+        "campus-hep/tilesets/tileset1.tsx",
+        "campus-hep/tilesets/tileset6_export.tsx",
+        "campus-hep/tilesets/tileset5_export.tsx",
+        "campus-hep/tilesets/tileset4_export.tsx",
+        "campus-hep/tilesets/tileset1-repositioning.tsx",
+        "campus-hep/tileset6_export.tsx",
+        "campus-hep/tileset1-repositioning.tsx",
+        "campus-hep/tileset4_export.tsx",
+        "campus-hep/tileset5_export.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tous les Fichiers (*)",
+    "tileset.lastUsedFormat": "json",
+    "tileset.type": 0
+}
