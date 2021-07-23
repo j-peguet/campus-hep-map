@@ -50,6 +50,27 @@
          "id":11,
          "name":"room-100-video",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.3
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Salle-100"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/ia801904.us.archive.org\/12\/items\/grenanda-wild-waves\/Grenanda-WildWaves.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":180,
@@ -63,7 +84,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":180,
          "x":0,
          "y":0

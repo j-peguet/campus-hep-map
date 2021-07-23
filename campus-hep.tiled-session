@@ -159,7 +159,7 @@
         "campus-hep/floor-1.json"
     ],
     "project": "campus-hep.tiled-project",
-    "property.type": "bool",
+    "property.type": "float",
     "recentFiles": [
         "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
