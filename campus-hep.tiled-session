@@ -20,10 +20,10 @@
         },
         "campus-hep/floor-1.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 4823,
-                "y": 976
+                "x": 4685,
+                "y": 552
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -122,11 +122,11 @@
             "scaleInEditor": 1
         },
         "map.json": {
-            "scale": 4,
-            "selectedLayer": 13,
+            "scale": 0.75,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 521.875,
-                "y": 391.25
+                "x": 178,
+                "y": -5.3333333333332575
             }
         },
         "map.json#ALL": {
