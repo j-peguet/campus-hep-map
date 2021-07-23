@@ -22,8 +22,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 4579,
-                "y": 790
+                "x": 4911,
+                "y": 894
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -33,12 +33,15 @@
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
         },
+        "campus-hep/floor-1.json#tileset5_export": {
+            "scaleInDock": 1
+        },
         "campus-hep/ground-floor.json": {
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1231.3333333333333,
-                "y": 790.6666666666665
+                "x": 1208.6666666666665,
+                "y": 804
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -46,21 +49,21 @@
             "scaleInEditor": 1
         },
         "campus-hep/ground-floor.json#Interiors_free_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "campus-hep/ground-floor.json#Modern_Office_Black_Shadow_32x32": {
-            "scaleInDock": 2,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1.5
         },
         "campus-hep/ground-floor.json#Modern_Office_MV_2_TILESETS_B-C-D-E": {
-            "scaleInDock": 1.5
+            "scaleInDock": 0.5
         },
         "campus-hep/ground-floor.json#Modern_Office_MV_Floors_TILESET_A2": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "campus-hep/ground-floor.json#tileset1": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "campus-hep/ground-floor.json#tileset1-repositioning": {
@@ -147,7 +150,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/jules/Code/campus-hep-map/src/assets",
-    "last.imagePath": "C:/Users/jules/Code/campus-hep-map/src/assets",
+    "last.imagePath": "C:/Users/alexi/campus-hep-map/src/assets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 180,
