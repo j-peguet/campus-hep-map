@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 2,
-            "selectedLayer": 7,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 5269.25,
-                "y": 833
+                "x": 5082,
+                "y": 618.6666666666665
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -43,11 +43,11 @@
             "scaleInDock": 1
         },
         "campus-hep/ground-floor.json": {
-            "scale": 0.75,
-            "selectedLayer": 19,
+            "scale": 0.33,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1171.3333333333335,
-                "y": 801.3333333333333
+                "x": 1071.2121212121212,
+                "y": 536.3636363636364
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -165,7 +165,7 @@
         "campus-hep/floor-1.json"
     ],
     "project": "campus-hep.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
