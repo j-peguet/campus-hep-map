@@ -19,16 +19,22 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 0.5,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 4685,
-                "y": 552
+                "x": 5269.25,
+                "y": 833
             }
         },
         "campus-hep/floor-1.json#ALL": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "campus-hep/floor-1.json#Interiors_free_32x32": {
+            "scaleInDock": 1
+        },
+        "campus-hep/floor-1.json#Modern_Office_Black_Shadow_32x32": {
+            "scaleInDock": 1
         },
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
@@ -38,10 +44,10 @@
         },
         "campus-hep/ground-floor.json": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 1207.3333333333333,
-                "y": 802.6666666666665
+                "x": 1171.3333333333335,
+                "y": 801.3333333333333
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -159,7 +165,7 @@
         "campus-hep/floor-1.json"
     ],
     "project": "campus-hep.tiled-project",
-    "property.type": "float",
+    "property.type": "string",
     "recentFiles": [
         "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
