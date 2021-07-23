@@ -6,8 +6,8 @@
     "activeFile": "campus-hep/floor-1.json",
     "expandedProjectPaths": [
         ".",
-        "campus-hep/tilesets",
-        "campus-hep"
+        "campus-hep",
+        "campus-hep/tilesets"
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
@@ -20,10 +20,10 @@
         },
         "campus-hep/floor-1.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 5082,
-                "y": 618.6666666666665
+                "x": 4573.333333333333,
+                "y": 666.6666666666665
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -36,6 +36,10 @@
         "campus-hep/floor-1.json#Modern_Office_Black_Shadow_32x32": {
             "scaleInDock": 1
         },
+        "campus-hep/floor-1.json#Modern_Office_MV_1_TILESETS_B-C-D-E": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
         },
@@ -43,11 +47,11 @@
             "scaleInDock": 1
         },
         "campus-hep/ground-floor.json": {
-            "scale": 0.33,
-            "selectedLayer": 8,
+            "scale": 0.75,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1071.2121212121212,
-                "y": 536.3636363636364
+                "x": 794.6666666666666,
+                "y": 754.6666666666665
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -58,7 +62,7 @@
             "scaleInDock": 0.75
         },
         "campus-hep/ground-floor.json#Modern_Office_Black_Shadow_32x32": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1.5
         },
         "campus-hep/ground-floor.json#Modern_Office_MV_2_TILESETS_B-C-D-E": {
@@ -131,8 +135,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 178,
-                "y": -5.3333333333332575
+                "x": 177.33333333333337,
+                "y": -4
             }
         },
         "map.json#ALL": {
@@ -162,14 +166,15 @@
     "map.width": 180,
     "openFiles": [
         "campus-hep/ground-floor.json",
-        "campus-hep/floor-1.json"
+        "campus-hep/floor-1.json",
+        "map.json"
     ],
     "project": "campus-hep.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "campus-hep/ground-floor.json",
-        "campus-hep/floor-1.json",
         "map.json",
+        "campus-hep/floor-1.json",
         "campus-hep/tilesets/tileset1.tsx",
         "campus-hep/tilesets/tileset6_export.tsx",
         "campus-hep/tilesets/tileset5_export.tsx",
