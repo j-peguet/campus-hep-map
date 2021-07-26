@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "campus-hep/ALL.tsx": {
             "scaleInDock": 1,
@@ -20,10 +20,10 @@
         },
         "campus-hep/floor-1.json": {
             "scale": 0.75,
-            "selectedLayer": 48,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 5085.333333333333,
-                "y": 761.3333333333333
+                "x": 4696,
+                "y": 612
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -31,13 +31,13 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json#Interiors_free_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "campus-hep/floor-1.json#Modern_Office_Black_Shadow_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "campus-hep/floor-1.json#Modern_Office_MV_1_TILESETS_B-C-D-E": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json#tileset1": {
@@ -46,12 +46,30 @@
         "campus-hep/floor-1.json#tileset5_export": {
             "scaleInDock": 1
         },
+        "campus-hep/floor-2.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 3708,
+                "y": 348
+            }
+        },
+        "campus-hep/floor-2.json#ALL": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "campus-hep/floor-2.json#Modern_Office_Black_Shadow_32x32": {
+            "scaleInDock": 0.75
+        },
+        "campus-hep/floor-2.json#tileset5_export": {
+            "scaleInDock": 1
+        },
         "campus-hep/ground-floor.json": {
             "scale": 0.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1070,
-                "y": 858
+                "x": 1007,
+                "y": 856
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -168,7 +186,7 @@
         "campus-hep/ground-floor.json"
     ],
     "project": "campus-hep.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
@@ -187,8 +205,8 @@
     "tileset.lastUsedFilter": "Tous les Fichiers (*)",
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 32,
+        "width": 32
     },
     "tileset.type": 0
 }
