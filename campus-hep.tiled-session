@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "campus-hep/floor-1.json",
+    "activeFile": "campus-hep/ground-floor.json",
     "expandedProjectPaths": [
         "campus-hep",
         ".",
@@ -12,18 +12,18 @@
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "campus-hep/ALL.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 0.25,
-            "selectedLayer": 7,
+            "scale": 0.75,
+            "selectedLayer": 48,
             "viewCenter": {
-                "x": 2862,
-                "y": 802
+                "x": 5085.333333333333,
+                "y": 761.3333333333333
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -47,11 +47,11 @@
             "scaleInDock": 1
         },
         "campus-hep/ground-floor.json": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1039.3333333333333,
-                "y": 799.3333333333333
+                "x": 1070,
+                "y": 858
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -132,11 +132,11 @@
             "scaleInEditor": 1
         },
         "map.json": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 495.3333333333333,
-                "y": 272.66666666666663
+                "x": 479,
+                "y": 280
             }
         },
         "map.json#ALL": {
@@ -160,21 +160,19 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/jules/Code/campus-hep-map/src/assets",
-    "last.imagePath": "C:/Users/alexi/campus-hep-map/src/assets",
+    "last.imagePath": "C:/Users/jules/Code/campus-hep-map/src/assets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 180,
     "openFiles": [
-        "campus-hep/ground-floor.json",
-        "campus-hep/floor-1.json",
-        "map.json"
+        "campus-hep/ground-floor.json"
     ],
     "project": "campus-hep.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "campus-hep/ground-floor.json",
-        "map.json",
         "campus-hep/floor-1.json",
+        "map.json",
         "campus-hep/tilesets/tileset1.tsx",
         "campus-hep/tilesets/tileset6_export.tsx",
         "campus-hep/tilesets/tileset5_export.tsx",
@@ -188,5 +186,9 @@
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Tous les Fichiers (*)",
     "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
     "tileset.type": 0
 }
