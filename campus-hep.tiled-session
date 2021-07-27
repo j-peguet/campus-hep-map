@@ -5,9 +5,9 @@
     },
     "activeFile": "campus-hep/floor-2.json",
     "expandedProjectPaths": [
-        ".",
         "campus-hep/tilesets",
-        "campus-hep"
+        "campus-hep",
+        "."
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 67,
             "viewCenter": {
-                "x": 2706.6666666666665,
-                "y": 612
+                "x": 3800,
+                "y": 1016
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -40,6 +40,9 @@
             "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
+        "campus-hep/floor-1.json#gamecube": {
+            "scaleInDock": 1
+        },
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
         },
@@ -47,11 +50,11 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-2.json": {
-            "scale": 0.5,
-            "selectedLayer": 9,
+            "scale": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 3116,
-                "y": 818
+                "x": 4084,
+                "y": 443
             }
         },
         "campus-hep/floor-2.json#ALL": {
@@ -61,15 +64,27 @@
         "campus-hep/floor-2.json#Modern_Office_Black_Shadow_32x32": {
             "scaleInDock": 0.75
         },
+        "campus-hep/floor-2.json#gamecube": {
+            "scaleInDock": 1
+        },
+        "campus-hep/floor-2.json#server": {
+            "scaleInDock": 1
+        },
+        "campus-hep/floor-2.json#stairs": {
+            "scaleInDock": 1
+        },
+        "campus-hep/floor-2.json#tileset1": {
+            "scaleInDock": 1
+        },
         "campus-hep/floor-2.json#tileset5_export": {
             "scaleInDock": 1
         },
         "campus-hep/ground-floor.json": {
-            "scale": 0.5,
+            "scale": 1.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1040,
-                "y": 799
+                "x": 1019.3333333333333,
+                "y": 936
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -80,7 +95,7 @@
             "scaleInDock": 0.75
         },
         "campus-hep/ground-floor.json#Modern_Office_Black_Shadow_32x32": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1.5
         },
         "campus-hep/ground-floor.json#Modern_Office_MV_2_TILESETS_B-C-D-E": {
