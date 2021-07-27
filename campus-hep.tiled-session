@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "campus-hep/ground-floor.json",
+    "activeFile": "campus-hep/floor-2.json",
     "expandedProjectPaths": [
-        "campus-hep",
         ".",
-        "campus-hep/tilesets"
+        "campus-hep/tilesets",
+        "campus-hep"
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
@@ -47,11 +47,11 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-2.json": {
-            "scale": 1,
-            "selectedLayer": -1,
+            "scale": 0.5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 2740,
-                "y": 802
+                "x": 3116,
+                "y": 818
             }
         },
         "campus-hep/floor-2.json#ALL": {
@@ -68,8 +68,8 @@
             "scale": 0.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1007,
-                "y": 856
+                "x": 1040,
+                "y": 799
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -183,13 +183,16 @@
     "map.lastUsedFormat": "json",
     "map.width": 180,
     "openFiles": [
-        "campus-hep/ground-floor.json"
+        "campus-hep/ground-floor.json",
+        "campus-hep/floor-1.json",
+        "campus-hep/floor-2.json"
     ],
     "project": "campus-hep.tiled-project",
     "property.type": "string",
     "recentFiles": [
         "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
+        "campus-hep/floor-2.json",
         "map.json",
         "campus-hep/tilesets/tileset1.tsx",
         "campus-hep/tilesets/tileset6_export.tsx",
@@ -198,8 +201,7 @@
         "campus-hep/tilesets/tileset1-repositioning.tsx",
         "campus-hep/tileset6_export.tsx",
         "campus-hep/tileset1-repositioning.tsx",
-        "campus-hep/tileset4_export.tsx",
-        "campus-hep/tileset5_export.tsx"
+        "campus-hep/tileset4_export.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Tous les Fichiers (*)",
