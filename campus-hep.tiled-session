@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 1,
-            "selectedLayer": 67,
+            "scale": 1.5,
+            "selectedLayer": 43,
             "viewCenter": {
-                "x": 3800,
-                "y": 1016
+                "x": 3851.333333333333,
+                "y": 731.3333333333333
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -50,16 +50,19 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-2.json": {
-            "scale": 1,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 40,
             "viewCenter": {
-                "x": 4084,
-                "y": 443
+                "x": 3158,
+                "y": 1344
             }
         },
         "campus-hep/floor-2.json#ALL": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "campus-hep/floor-2.json#Interiors_free_32x32": {
+            "scaleInDock": 0.75
         },
         "campus-hep/floor-2.json#Modern_Office_Black_Shadow_32x32": {
             "scaleInDock": 0.75
@@ -83,8 +86,8 @@
             "scale": 1.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1019.3333333333333,
-                "y": 936
+                "x": 1040,
+                "y": 799.6666666666666
             }
         },
         "campus-hep/ground-floor.json#ALL": {
