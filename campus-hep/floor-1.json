@@ -1638,7 +1638,7 @@
         {
          "columns":16,
          "firstgid":3346,
-         "image":"..\/..\/Downloads\/Modern_Interiors_v36.0\/Modern_Interiors\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "image":"..\/src\/assets\/Interiors_32x32.png",
          "imageheight":31392,
          "imagewidth":512,
          "margin":0,
@@ -1651,7 +1651,7 @@
         {
          "columns":22,
          "firstgid":19042,
-         "image":"..\/..\/Downloads\/office-interiors.png",
+         "image":"..\/src\/assets\/office-interiors.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,

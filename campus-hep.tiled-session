@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 1,
-            "selectedLayer": 64,
+            "scale": 0.33,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2216,
-                "y": 951
+                "x": 2590.909090909091,
+                "y": 924.242424242424
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -46,6 +46,9 @@
         "campus-hep/floor-1.json#gamecube": {
             "scaleInDock": 1
         },
+        "campus-hep/floor-1.json#office-interiors": {
+            "scaleInDock": 1
+        },
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
         },
@@ -56,8 +59,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 2774,
-                "y": 1056
+                "x": 2768,
+                "y": 1050
             }
         },
         "campus-hep/floor-2.json#ALL": {
