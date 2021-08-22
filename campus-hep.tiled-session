@@ -5,9 +5,9 @@
     },
     "activeFile": "campus-hep/floor-2.json",
     "expandedProjectPaths": [
-        "campus-hep/tilesets",
+        ".",
         "campus-hep",
-        "."
+        "campus-hep/tilesets"
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 0.33,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 64,
             "viewCenter": {
-                "x": 2590.909090909091,
-                "y": 924.242424242424
+                "x": 2026.6666666666665,
+                "y": 754.6666666666665
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -56,11 +56,11 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-2.json": {
-            "scale": 1,
-            "selectedLayer": 10,
+            "scale": 1.5,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 2768,
-                "y": 1050
+                "x": 2022,
+                "y": 574
             }
         },
         "campus-hep/floor-2.json#ALL": {
@@ -68,7 +68,8 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-2.json#Interiors_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "campus-hep/floor-2.json#Interiors_free_32x32": {
             "scaleInDock": 0.75
@@ -77,7 +78,8 @@
             "scaleInDock": 0.75
         },
         "campus-hep/floor-2.json#gamecube": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "campus-hep/floor-2.json#server": {
             "scaleInDock": 1
@@ -95,8 +97,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 928,
-                "y": 922.6666666666666
+                "x": 1040,
+                "y": 799.3333333333333
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -205,7 +207,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/jules/Code/campus-hep-map/src/assets",
-    "last.imagePath": "C:/Users/alexi/Downloads",
+    "last.imagePath": "C:/Users/jules/Code/campus-hep-map/src/assets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 180,
