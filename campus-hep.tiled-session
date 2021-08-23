@@ -5,9 +5,9 @@
     },
     "activeFile": "campus-hep/floor-2.json",
     "expandedProjectPaths": [
-        ".",
         "campus-hep/tilesets",
-        "campus-hep"
+        "campus-hep",
+        "."
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
@@ -19,11 +19,11 @@
             "scaleInEditor": 1
         },
         "campus-hep/floor-1.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 0.5,
+            "selectedLayer": 35,
             "viewCenter": {
-                "x": 5049.333333333333,
-                "y": 589.3333333333334
+                "x": 3810,
+                "y": 908
             }
         },
         "campus-hep/floor-1.json#ALL": {
@@ -34,23 +34,29 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-1.json#Interiors_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "campus-hep/floor-1.json#Interiors_free_32x32": {
             "scaleInDock": 0.75
         },
         "campus-hep/floor-1.json#Modern_Office_Black_Shadow_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "campus-hep/floor-1.json#Modern_Office_MV_1_TILESETS_B-C-D-E": {
             "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
+        "campus-hep/floor-1.json#OSI": {
+            "scaleInDock": 1
+        },
         "campus-hep/floor-1.json#gamecube": {
             "scaleInDock": 1
         },
         "campus-hep/floor-1.json#office-interiors": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
         },
         "campus-hep/floor-1.json#tileset1": {
             "scaleInDock": 1
@@ -58,20 +64,20 @@
         "campus-hep/floor-1.json#tileset5_export": {
             "scaleInDock": 1
         },
+        "campus-hep/floor-1.json#tileset6_export": {
+            "scaleInDock": 1
+        },
         "campus-hep/floor-2.json": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 0.33,
+            "selectedLayer": 49,
             "viewCenter": {
-                "x": 4368,
-                "y": 753.3333333333333
+                "x": 2539.393939393939,
+                "y": 603.0303030303031
             }
         },
         "campus-hep/floor-2.json#ALL": {
             "scaleInDock": 1,
             "scaleInEditor": 1
-        },
-        "campus-hep/floor-2.json#EPSI_Etage1": {
-            "scaleInDock": 1
         },
         "campus-hep/floor-2.json#EPSI_Logo": {
             "scaleInDock": 1
@@ -80,7 +86,7 @@
             "scaleInDock": 1
         },
         "campus-hep/floor-2.json#Interiors_32x32": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "campus-hep/floor-2.json#Interiors_free_32x32": {
@@ -107,10 +113,10 @@
         },
         "campus-hep/ground-floor.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 945.3333333333333,
-                "y": 864
+                "x": 1040,
+                "y": 800
             }
         },
         "campus-hep/ground-floor.json#ALL": {
@@ -225,7 +231,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/jules/Code/campus-hep-map/src/assets",
-    "last.imagePath": "C:/Users/jules/Code/campus-hep-map/src/assets",
+    "last.imagePath": "C:/Users/alexi/campus-hep-map/src/assets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 180,
@@ -237,9 +243,9 @@
     "project": "campus-hep.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "campus-hep/ground-floor.json",
         "campus-hep/floor-1.json",
         "campus-hep/floor-2.json",
+        "campus-hep/ground-floor.json",
         "map.json",
         "campus-hep/tilesets/tileset1.tsx",
         "campus-hep/tilesets/tileset6_export.tsx",
